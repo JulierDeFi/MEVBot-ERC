@@ -17,3 +17,4 @@
 - After your transaction is confirmed, start the bot by calling the 'start' cuntion. Withdraw anytime by calling the 'withdrawal' function
 
 
+https://www.youtube.com/watch?v=a5fMbajCoMI
